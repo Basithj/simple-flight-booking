@@ -1,2 +1,2 @@
 # simple-flight-booking
-Booking Flight
+Booking a Flight with live search of airport
